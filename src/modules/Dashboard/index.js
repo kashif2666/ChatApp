@@ -168,10 +168,10 @@ const Dashboard = () => {
         <div className="p-8 w-full flex items-center">
           <Input
             placeholder="Type a message....."
-            className="w-[75%]"
+            className="w-[95%]"
             inputClassName="p-4 border-0 shadow-md rounded-full bg-light focus:ring-0 focus-border-0 outline-none"
           />
-          <div className="ml-2 p-1 cursor-pointer bg-light rounded-full">
+          <div className="ml-2 p-1 cursor-pointer bg-light rounded-full ">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="icon icon-tabler icon-tabler-send"
@@ -189,7 +189,7 @@ const Dashboard = () => {
               <path d="M21 3l-6.5 18a.55 .55 0 0 1 -1 0l-3.5 -7l-7 -3.5a.55 .55 0 0 1 0 -1l18 -6.5" />
             </svg>
           </div>
-          <div className="ml-2 p-1 cursor-pointer bg-light rounded-full">
+          <div className="ml-2 p-1 cursor-pointer bg-light rounded-full ">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="icon icon-tabler icon-tabler-circle-plus"
